@@ -10,31 +10,31 @@
 	<string>virtualspace_ios</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E2BF89389EB4FA37DD3F869A5D439023DA7E6D1D</key>
-		<string>123.56.84.43:code</string>
+		<key>252A0A4D826EDAD4A2FFF8BC780FED196FF41FE5</key>
+		<string>www.agohere.com:/git/virtualspace_ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>virtualspace_ios/virtualspace_ios.xcodeproj</string>
+	<string>virtualspace_ios.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E2BF89389EB4FA37DD3F869A5D439023DA7E6D1D</key>
-		<string>../../..</string>
+		<key>252A0A4D826EDAD4A2FFF8BC780FED196FF41FE5</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>123.56.84.43:code</string>
+	<string>www.agohere.com:/git/virtualspace_ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E2BF89389EB4FA37DD3F869A5D439023DA7E6D1D</string>
+	<string>252A0A4D826EDAD4A2FFF8BC780FED196FF41FE5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E2BF89389EB4FA37DD3F869A5D439023DA7E6D1D</string>
+			<string>252A0A4D826EDAD4A2FFF8BC780FED196FF41FE5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>code</string>
+			<string>virtualspace_ios</string>
 		</dict>
 	</array>
 </dict>
